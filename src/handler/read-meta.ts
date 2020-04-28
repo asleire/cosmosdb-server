@@ -1,1 +1,10 @@
-export default () => ({});
+export default () => ({ 
+    userConsistencyPolicy: {
+    },
+    userReplicationPolicy: {
+    },
+    systemReplicationPolicy: {
+    },
+    readPolicy: {
+    }
+});
